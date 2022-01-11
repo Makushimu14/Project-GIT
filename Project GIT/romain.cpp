@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-/* tout a disparue
+/* tout a disparue oh non
 ki
 noa
 uwu
