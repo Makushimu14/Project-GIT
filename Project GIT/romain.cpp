@@ -1,4 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// tout a disparue
+/* tout a disparue
+ki
+noa
+*/
